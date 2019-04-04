@@ -1,3 +1,9 @@
 body {
-    background-color: purple;
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, rgb(216, 115, 115), rgb(90, 184, 228));
 }
